@@ -32,8 +32,8 @@
 
 ## 🚀 Projects
 
-- 🔗 Football Club Management System (link) 
-- 🔗 Process Scheduling Simulator (link) 
+- 🔗 Football Club Management System [(link)](https://github.com/PTEraslan/SportClubManagementSystem) 
+- 🔗 Process Scheduling Simulator [link](https://github.com/PTEraslan/CPUSchedulingSimulator) 
 
 
 ---
