@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Poyraz Tuna ERASLAN
 
-🎓 Computer Engineering Student @ UTAA
+🎓 Computer Engineering Student @ UTAA  
 💻 Interested in backend development, embedded systems and system-level programming
 
 
