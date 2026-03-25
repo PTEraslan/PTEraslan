@@ -43,9 +43,4 @@
 - 📧 Email: pteraslan@gmail.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/poyraz-tuna-eraslan-5989bb298/
 
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/PTEraslan/PTEraslan/blob/output/github-contribution-grid-snake.svg)
 
