@@ -47,5 +47,5 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/PTEraslan/PTEraslan/blob/output/github-contribution-grid-snake.svg)
 
